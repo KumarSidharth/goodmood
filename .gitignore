@@ -1,0 +1,31 @@
+# Build artifacts
+build/
+dist/
+node_modules/
+
+# IDE files
+.idea/
+*.iml
+
+# Testing files
+coverage/
+
+# Logs
+logs/
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Configuration files
+.env
+
+
+# Other
+*.log
+*.bak
+*.zip
+*.rar
+*.tar.gz
+*.7z
