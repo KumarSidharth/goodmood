@@ -1,11 +1,26 @@
 {
   "name": "@goodmood/scss",
-  "version": "1.0.0",
+  "private": "false",
+  "version": "0.1.0",
   "description": "classes for styling web UI using scss",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "contributors": [
+    "Kumar Sidharth <k.sidharth1994@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KumarSidharth/goodmood.git"
+  },
+  "keywords": [
+    "goodmood",
+    "ui"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KumarSidharth/goodmood/issues"
+  },
+  "homepage": "https://github.com/KumarSidharth/goodmood/scss#readme"
 }
