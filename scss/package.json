@@ -1,0 +1,11 @@
+{
+  "name": "@goodmood/scss",
+  "version": "1.0.0",
+  "description": "classes for styling web UI using scss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

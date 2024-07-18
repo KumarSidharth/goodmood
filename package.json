@@ -1,0 +1,23 @@
+{
+  "name": "goodmood",
+  "version": "1.0.0",
+  "description": "set of web ui libraries and apps to showcasae their usages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KumarSidharth/goodmood.git"
+  },
+  "keywords": [
+    "goodmood",
+    "ui"
+  ],
+  "author": "KumarSidharth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KumarSidharth/goodmood/issues"
+  },
+  "homepage": "https://github.com/KumarSidharth/goodmood#readme"
+}
