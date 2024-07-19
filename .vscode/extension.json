@@ -1,0 +1,21 @@
+{
+    "recommendations": [
+        "oderwat.indent-rainbow",
+        "rafikis75.vscode-sassdoc",
+        "formulahendry.auto-rename-tag",
+        "streetsidesoftware.code-spell-checker",
+        "editorconfig.editorconfig",
+        "github.vscode-pull-request-github",
+        "eamodio.gitlens",
+        "vincaslt.highlight-matching-tag",
+        "ecmel.vscode-html-css",
+        "hwencc.html-tag-wrapper",
+        "bierner.jsdoc-markdown-highlighting",
+        "pkief.material-icon-theme",
+        "yoavbls.pretty-ts-errors",
+        "jock.svg",
+        "meganrogge.template-string-converter",
+        "planbcoding.vscode-react-refactor",
+        "davidanson.vscode-markdownlint"
+    ]
+}

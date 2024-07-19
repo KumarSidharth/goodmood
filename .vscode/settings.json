@@ -1,5 +1,9 @@
 {
     "cSpell.words": [
         "goodmood"
+    ],
+    "css.styleSheets": [
+        "**/${fileBasenameNoExtension}.module.scss",
+        "**/${fileBasenameNoExtension}.module.css",
     ]
 }
